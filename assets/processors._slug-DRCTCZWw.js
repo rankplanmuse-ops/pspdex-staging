@@ -1,0 +1,1 @@
+import{t as e}from"./processors._slug-Cfjw0ou5.js";export{e as notFoundComponent};

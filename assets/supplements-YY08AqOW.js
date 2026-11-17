@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Cx0BB4qO.js";var t=e(),n=()=>(0,t.jsx)(`div`,{className:`mx-auto max-w-6xl px-4 py-14 sm:px-6`,children:`Supplement guide not found.`});export{n as notFoundComponent};
