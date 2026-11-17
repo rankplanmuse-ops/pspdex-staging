@@ -1,1 +1,0 @@
-import{ct as e,lt as t,ut as n}from"./index-B-99wJWI.js";function r(r,i){return e({...r,enabled:!0,suspense:!0,throwOnError:t,placeholderData:void 0},n,i)}export{r as t};

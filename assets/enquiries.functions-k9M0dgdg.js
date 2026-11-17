@@ -1,1 +1,0 @@
-import{ht as e,mt as t}from"./index-B-99wJWI.js";var n=t({method:`POST`}).handler(e(`04c88e6d7229413fd5b93b45c406cec57f08b268053aad4694a19d4489f2c2a8`));export{n as t};
